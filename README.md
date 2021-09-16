@@ -18,7 +18,7 @@ Install virtualenv
 > pip3 install virtualenv
 
 Inside backend/ run:
-> pythonenv pythonenv
+> virtualenv pythonenv
 
 Execute the newly created virtualenv by running:
 > source ./pythonenv/bin/activate
