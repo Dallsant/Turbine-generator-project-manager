@@ -1,5 +1,5 @@
 
-## Project manager Test App
+## Turbine generator project manager Test App
 
 ## Requirements: 
 - Python3 3.8.10 +
